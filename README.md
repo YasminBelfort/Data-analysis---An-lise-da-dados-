@@ -1,3 +1,5 @@
+
+
 # Curso Análise de Dados (Data analysis course)
 ___
 ☆*: .｡. o(≧▽≦)o .｡.:*☆
